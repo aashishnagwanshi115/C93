@@ -21,9 +21,10 @@ curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/m
 
 curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/gaiacloud.sh && bash gaiacloud.sh
 
+curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/mega_downloader.sh && bash mega_downloader.sh
+
 curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/ognode.sh && bash ognode.sh
 
-curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/mega_downloader.sh && bash mega_downloader.sh
 
 curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/move_tracker.sh && bash move_tracker.sh
 
