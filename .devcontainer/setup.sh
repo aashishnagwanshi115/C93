@@ -29,7 +29,7 @@ curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/m
 
 curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/pipe.sh && bash pipe.sh
 
-wget -q https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/thorium.sh && chmod +x thorium.sh && ./thorium.sh
+curl -sSLO https://raw.githubusercontent.com/naksh-07/Automate/refs/heads/main/restart_gaianet.sh && bash restart_gaianet.sh
 
 
 echo "✅ All Done Bhai! Ultra OP Container READY 🚀"
