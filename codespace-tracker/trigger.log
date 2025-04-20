@@ -1,0 +1,19 @@
+🚀 Restarting gaianet...
+[+] Stopping WasmEdge, Qdrant and frpc ...
+[1/4] Checking the config.json file ...
+[0;32m    👍 Done![0m
+
+You already have a private key.
+[2/4] Starting LlamaEdge API Server ...
+
+    * Start server with the command below ...⏳
+
+wasmedge --dir .:./dashboard --env NODE_VERSION=0.4.27 --nn-preload default:GGML:AUTO:Qwen2-0.5B-Instruct-Q5_K_M.gguf --nn-preload embedding:GGML:AUTO:nomic-embed-text-v1.5.f16.gguf llama-api-server.wasm --model-name Qwen2-0.5B-Instruct-Q5_K_M,nomic-embed-text-v1.5.f16 --ctx-size 131072,8192 --batch-size 32,8192 --ubatch-size 32,8192 --prompt-template chatml,embedding --include-usage --web-ui ./ --socket-addr 0.0.0.0:8080 
+
+[0;32m      👍 Done! LlamaEdge API Server started with pid: 1319[0m
+
+    * Verify the LlamaEdge API Server. Please wait seconds ...⏳
+
+✅ Gaia restart complete!
+f5f0e0a8d6e3
+05e595ead9b9

@@ -1,0 +1,58 @@
+[2025-04-20T00:06:15.950007] ✅ first_start.json created.
+[2025-04-20T00:06:15.950210] ✅ current_session.json initialized with session_id: 2025-04-20T00:06:15.949719_5637deaf
+[2025-04-20T00:06:15.950360] 🔄 minute_runtime.json reset to 0.
+[2025-04-20T00:06:15.986332] Minute updated. Total: 1 mins | Session: 1 mins
+[2025-04-20T00:07:16.009089] Minute updated. Total: 2 mins | Session: 2 mins
+[2025-04-20T00:08:16.029551] Minute updated. Total: 3 mins | Session: 3 mins
+[2025-04-20T00:08:48.979026] ✅ Triggered: 3-minute restart_gaianet.sh
+[2025-04-20T00:09:16.049858] Minute updated. Total: 4 mins | Session: 4 mins
+[2025-04-20T00:10:16.070327] Minute updated. Total: 5 mins | Session: 5 mins
+[2025-04-20T00:11:16.090797] Minute updated. Total: 6 mins | Session: 6 mins
+[2025-04-20T00:12:16.111624] Minute updated. Total: 7 mins | Session: 7 mins
+[2025-04-20T00:12:49.184913] ⚠️ Monitoring error: Expecting value: line 20 column 5 (char 570)
+[2025-04-20T00:13:16.131937] Minute updated. Total: 8 mins | Session: 8 mins
+[2025-04-20T00:13:19.200771] ⚠️ Monitoring error: Expecting value: line 20 column 5 (char 570)
+[2025-04-20T00:13:49.230060] ⚠️ Monitoring error: Expecting value: line 20 column 5 (char 570)
+[2025-04-20T00:14:16.152242] Minute updated. Total: 9 mins | Session: 9 mins
+[2025-04-20T00:14:19.254094] ⚠️ Monitoring error: Expecting value: line 20 column 5 (char 570)
+[2025-04-20T00:14:49.268950] ⚠️ Monitoring error: Expecting value: line 20 column 5 (char 570)
+[2025-04-20T00:15:16.174812] Minute updated. Total: 10 mins | Session: 10 mins
+[2025-04-20T00:15:19.292192] ⚠️ Monitoring error: Expecting value: line 20 column 5 (char 581)
+[2025-04-20T00:16:16.195914] Minute updated. Total: 11 mins | Session: 11 mins
+[2025-04-20T00:17:16.222221] Minute updated. Total: 12 mins | Session: 12 mins
+[2025-04-20T00:17:19.366832] ❌ Failed to run docker_run: [Errno 2] No such file or directory: '/workspaces/93'
+[2025-04-20T00:17:49.397440] ❌ Failed to run docker_run: [Errno 2] No such file or directory: '/workspaces/93'
+[2025-04-20T00:18:16.243952] Minute updated. Total: 13 mins | Session: 13 mins
+[2025-04-20T00:18:19.428075] ❌ Failed to run docker_run: [Errno 2] No such file or directory: '/workspaces/93'
+[2025-04-20T00:18:49.430547] ❌ Failed to run docker_run: [Errno 2] No such file or directory: '/workspaces/93'
+[2025-04-20T00:19:16.265567] Minute updated. Total: 14 mins | Session: 14 mins
+[2025-04-20T00:19:19.820582] ✅ Triggered: docker_run
+[2025-04-20T00:20:16.286942] Minute updated. Total: 15 mins | Session: 15 mins
+[2025-04-20T00:21:16.307905] Minute updated. Total: 16 mins | Session: 16 mins
+[2025-04-20T00:22:16.328735] Minute updated. Total: 17 mins | Session: 17 mins
+[2025-04-20T00:23:16.349740] Minute updated. Total: 18 mins | Session: 18 mins
+[2025-04-20T00:24:16.373641] Minute updated. Total: 19 mins | Session: 19 mins
+[2025-04-20T00:25:16.394901] Minute updated. Total: 20 mins | Session: 20 mins
+[2025-04-20T00:26:16.415300] Minute updated. Total: 21 mins | Session: 21 mins
+[2025-04-20T00:27:16.435997] Minute updated. Total: 22 mins | Session: 22 mins
+[2025-04-20T00:28:16.456598] Minute updated. Total: 23 mins | Session: 23 mins
+[2025-04-20T00:29:16.477185] Minute updated. Total: 24 mins | Session: 24 mins
+[2025-04-20T00:30:16.497646] Minute updated. Total: 25 mins | Session: 25 mins
+[2025-04-20T00:31:16.518163] Minute updated. Total: 26 mins | Session: 26 mins
+[2025-04-20T00:32:16.538695] Minute updated. Total: 27 mins | Session: 27 mins
+[2025-04-20T00:55:43.335041] Minute updated. Total: 28 mins | Session: 28 mins
+[2025-04-20T00:56:10.215916] ✅ Triggered: 3-minute restart_gaianet.sh
+[2025-04-20T00:56:20.809561] ✅ Triggered: docker_run
+[2025-04-20T00:56:43.418924] Minute updated. Total: 29 mins | Session: 29 mins
+[2025-04-20T00:57:43.531241] Minute updated. Total: 30 mins | Session: 30 mins
+[2025-04-20T00:58:43.552809] Minute updated. Total: 31 mins | Session: 31 mins
+[2025-04-20T00:59:43.574050] Minute updated. Total: 32 mins | Session: 32 mins
+[2025-04-20T01:00:43.595476] Minute updated. Total: 33 mins | Session: 33 mins
+[2025-04-20T01:01:43.616621] Minute updated. Total: 34 mins | Session: 34 mins
+[2025-04-20T01:02:43.637923] Minute updated. Total: 35 mins | Session: 35 mins
+[2025-04-20T01:03:43.658970] Minute updated. Total: 36 mins | Session: 36 mins
+[2025-04-20T01:04:43.680285] Minute updated. Total: 37 mins | Session: 37 mins
+[2025-04-20T01:05:43.701608] Minute updated. Total: 38 mins | Session: 38 mins
+[2025-04-20T01:06:43.722859] Minute updated. Total: 39 mins | Session: 39 mins
+[2025-04-20T01:07:43.744224] Minute updated. Total: 40 mins | Session: 40 mins
+[2025-04-20T01:08:43.765604] Minute updated. Total: 41 mins | Session: 41 mins
